@@ -1,5 +1,5 @@
 # Instacart_Grocery_Python
-Dataset contains orders, products, customers, and departments 
+
 
 Data Analysis project conducted in Python for Career Foundry Data Analytics Program.
 
